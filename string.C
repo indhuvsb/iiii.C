@@ -1,0 +1,9 @@
+#include <stdio.h>
+#include<conio.h>
+int main()
+{
+    char name[20];
+    printf("Enter name: ");
+    scanf("%s", name);
+    return 0;
+}
